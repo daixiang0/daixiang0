@@ -3,7 +3,7 @@
 
 - 🔭 Dapr\Thanos\Golangci-lint Maintainer
 - 👯 Mircosoft MVP
-- 📫 How to reach me: loong.dai@intel.com
+- 📫 How to reach me: long0dai@foxmail.com
 
 
 
